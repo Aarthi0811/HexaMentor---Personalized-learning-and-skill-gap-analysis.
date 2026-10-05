@@ -1,4 +1,4 @@
-# HexaMentor---Personalized-learning-and-skill-gap-analysis.
+# HexaMentor - Personalized learning and skill gap analysis.
 
 HexaMentor is an AI-powered adaptive learning and workforce development platform designed to bridge skill gaps through intelligent assessments, personalized learning paths, and real-time analytics.
 
